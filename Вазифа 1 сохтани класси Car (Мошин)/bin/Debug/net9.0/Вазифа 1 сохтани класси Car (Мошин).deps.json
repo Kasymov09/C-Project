@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Вазифа 1 сохтани класси Car (Мошин)/1.0.0": {
+        "runtime": {
+          "Вазифа 1 сохтани класси Car (Мошин).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Вазифа 1 сохтани класси Car (Мошин)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

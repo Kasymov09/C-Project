@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\bin\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\bin\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\bin\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\bin\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\bin\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\refint\Вазифа 3 истифодаи Access Modifiers.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\Вазифа 3 истифодаи Access Modifiers.genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 3 истифодаи Access Modifiers\obj\Debug\net9.0\ref\Вазифа 3 истифодаи Access Modifiers.dll

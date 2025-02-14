@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\Вазифа 2 сохтани конструктор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\Вазифа 2 сохтани конструктор.AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\Вазифа 2 сохтани конструктор.AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\Вазифа 2 сохтани конструктор.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\bin\Debug\net9.0\Вазифа 2 сохтани конструктор.exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\bin\Debug\net9.0\Вазифа 2 сохтани конструктор.deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\bin\Debug\net9.0\Вазифа 2 сохтани конструктор.runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\bin\Debug\net9.0\Вазифа 2 сохтани конструктор.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\bin\Debug\net9.0\Вазифа 2 сохтани конструктор.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\Вазифа 2 сохтани конструктор.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\refint\Вазифа 2 сохтани конструктор.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\Вазифа 2 сохтани конструктор.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\Вазифа 2 сохтани конструктор.genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 2 сохтани конструктор\obj\Debug\net9.0\ref\Вазифа 2 сохтани конструктор.dll

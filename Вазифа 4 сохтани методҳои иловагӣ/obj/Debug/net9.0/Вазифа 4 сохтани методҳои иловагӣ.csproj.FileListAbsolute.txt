@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\bin\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\bin\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\bin\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\bin\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\bin\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\refint\Вазифа 4 сохтани методҳои иловагӣ.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\Вазифа 4 сохтани методҳои иловагӣ.genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 4 сохтани методҳои иловагӣ\obj\Debug\net9.0\ref\Вазифа 4 сохтани методҳои иловагӣ.dll

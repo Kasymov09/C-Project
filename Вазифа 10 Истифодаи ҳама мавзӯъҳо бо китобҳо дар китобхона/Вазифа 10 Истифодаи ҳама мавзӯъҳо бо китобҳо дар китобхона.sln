@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вазифа 10 Истифодаи ҳама мавзӯъҳо бо китобҳо дар китобхона", "Вазифа 10 Истифодаи ҳама мавзӯъҳо бо китобҳо дар китобхона.csproj", "{2B120112-05CC-0B15-F989-DAA52959C5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B120112-05CC-0B15-F989-DAA52959C5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B120112-05CC-0B15-F989-DAA52959C5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B120112-05CC-0B15-F989-DAA52959C5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B120112-05CC-0B15-F989-DAA52959C5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D96170B9-0272-4C6E-A8E1-688ED5898465}
+	EndGlobalSection
+EndGlobal

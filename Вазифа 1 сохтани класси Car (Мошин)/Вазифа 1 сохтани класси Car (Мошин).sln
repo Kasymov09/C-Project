@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вазифа 1 сохтани класси Car (Мошин)", "Вазифа 1 сохтани класси Car (Мошин).csproj", "{432F26A4-284E-940F-E48C-2B12E6C4814B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{432F26A4-284E-940F-E48C-2B12E6C4814B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432F26A4-284E-940F-E48C-2B12E6C4814B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432F26A4-284E-940F-E48C-2B12E6C4814B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432F26A4-284E-940F-E48C-2B12E6C4814B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB055A33-73FA-4425-A060-F7BB5E2E6209}
+	EndGlobalSection
+EndGlobal

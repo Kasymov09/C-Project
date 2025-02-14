@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\bin\Debug\net9.0\Вазифа 9 Муқоисаи Records.exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\bin\Debug\net9.0\Вазифа 9 Муқоисаи Records.deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\bin\Debug\net9.0\Вазифа 9 Муқоисаи Records.runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\bin\Debug\net9.0\Вазифа 9 Муқоисаи Records.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\bin\Debug\net9.0\Вазифа 9 Муқоисаи Records.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\Вазифа 9 Муқоисаи Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\Вазифа 9 Муқоисаи Records.AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\Вазифа 9 Муқоисаи Records.AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\Вазифа 9 Муқоисаи Records.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\Вазифа 9 Муқоисаи Records.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\refint\Вазифа 9 Муқоисаи Records.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\Вазифа 9 Муқоисаи Records.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\Вазифа 9 Муқоисаи Records.genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 9 Муқоисаи Records\obj\Debug\net9.0\ref\Вазифа 9 Муқоисаи Records.dll

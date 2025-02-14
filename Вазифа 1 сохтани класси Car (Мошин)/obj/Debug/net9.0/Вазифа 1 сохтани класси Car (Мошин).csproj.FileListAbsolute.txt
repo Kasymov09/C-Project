@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\bin\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\bin\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\bin\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\bin\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\bin\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\refint\Вазифа 1 сохтани класси Car (Мошин).dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\Вазифа 1 сохтани класси Car (Мошин).genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 1 сохтани класси Car (Мошин)\obj\Debug\net9.0\ref\Вазифа 1 сохтани класси Car (Мошин).dll

@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\bin\Debug\net9.0\Вазифа 6 истифодаи Records.exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\bin\Debug\net9.0\Вазифа 6 истифодаи Records.deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\bin\Debug\net9.0\Вазифа 6 истифодаи Records.runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\bin\Debug\net9.0\Вазифа 6 истифодаи Records.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\bin\Debug\net9.0\Вазифа 6 истифодаи Records.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\Вазифа 6 истифодаи Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\Вазифа 6 истифодаи Records.AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\Вазифа 6 истифодаи Records.AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\Вазифа 6 истифодаи Records.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\Вазифа 6 истифодаи Records.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\refint\Вазифа 6 истифодаи Records.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\Вазифа 6 истифодаи Records.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\Вазифа 6 истифодаи Records.genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 6 истифодаи Records\obj\Debug\net9.0\ref\Вазифа 6 истифодаи Records.dll

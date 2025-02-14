@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\bin\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\bin\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\bin\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\bin\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\bin\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\refint\Вазифа 7 Демонстрацияи Object Initializer.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\Вазифа 7 Демонстрацияи Object Initializer.genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 7 Демонстрацияи Object Initializer\obj\Debug\net9.0\ref\Вазифа 7 Демонстрацияи Object Initializer.dll

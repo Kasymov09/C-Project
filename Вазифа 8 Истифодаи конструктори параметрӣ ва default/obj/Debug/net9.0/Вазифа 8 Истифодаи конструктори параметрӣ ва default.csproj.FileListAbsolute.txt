@@ -1,0 +1,14 @@
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.AssemblyInfoInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.AssemblyInfo.cs
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\bin\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.exe
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\bin\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.deps.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\bin\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.runtimeconfig.json
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\bin\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\bin\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\refint\Вазифа 8 Истифодаи конструктори параметрӣ ва default.dll
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.pdb
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\Вазифа 8 Истифодаи конструктори параметрӣ ва default.genruntimeconfig.cache
+C:\Users\Kasymov Abdujalil\Desktop\C#\OOP\Object initialization\Exam\Вазифа 8 Истифодаи конструктори параметрӣ ва default\obj\Debug\net9.0\ref\Вазифа 8 Истифодаи конструктори параметрӣ ва default.dll

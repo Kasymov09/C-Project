@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Вазифа 9 Муқоисаи Records/1.0.0": {
+        "runtime": {
+          "Вазифа 9 Муқоисаи Records.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Вазифа 9 Муқоисаи Records/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
