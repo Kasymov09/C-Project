@@ -1,4 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
+using System.Security.Cryptography.X509Certificates;
 
 Student student1 = new Student(101);
 student1.Name = "Ali";
@@ -19,6 +19,10 @@ public class Student(int ID)
     public int Grade;
     public string GetStudentInfo()
     {
+        if(Name.Length < 3)
+        {
+            Name = "Unknown";
+        }
         return $"Name: {Name}, ID: {ID}";
     }
     public string IsPassed()
@@ -27,6 +31,12 @@ public class Student(int ID)
         {
             return "True";
         }
+        /*
+        else if(Grade<0 || Grade>100)
+        {
+            return "Cannot be more than 100 or fewer than 0";
+        }
+        */
         return "False";
     }
 }
