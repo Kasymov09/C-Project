@@ -10,3 +10,4 @@ public class Book
         System.Console.WriteLine($"{Title} by {Author}, {Pages} pages");
     }
 }
+//Hej chiz ivaz nakardam
