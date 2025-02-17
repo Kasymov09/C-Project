@@ -4,7 +4,7 @@ account.Deposit(500);
 Console.WriteLine(account.GetBalance());
 public class BankAccount
 {
-    public int Balance;
+    private int Balance;
     public int Deposit(int value)
     {
         return Balance+=value;
